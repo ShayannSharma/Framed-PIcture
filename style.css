@@ -1,0 +1,11 @@
+#heading{
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+#btn1:hover{
+    background-color: crimson;
+    font-size: larger;
+    color: black;
+    font-weight: 600;
+}
